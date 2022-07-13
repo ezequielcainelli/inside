@@ -1,0 +1,157 @@
+{
+    margin:0;
+    padding:0;
+    box sizing : border-box;
+    
+
+}
+
+@media only screen and (max-width 480px)
+body{
+    font-family:monserrat , sans-serif;
+    font-family: ubuntu;sans-serif;´
+ 
+    
+    /* tablet */ 
+    @media only screen and (min-width 481px) and (max-width 987px)
+}
+
+{
+/* desktop*/
+@media only screen and (min-width 470px)}{
+
+}
+
+header{
+    
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ heigth:20rem   
+}
+
+.aside{
+    background-color: white;
+}
+.contenido__titulo{
+    background-color: white;
+}
+
+    .header__navbar li{
+        display: inline-block;
+        padding: 2rem;
+        list-style-type: none;
+        text-align: center;
+    }
+    .header__navbar a{
+        text-decoration: none;
+        text-transform: uppercase;
+        background-color: blue;
+        color: white;
+        padding: 1rem;
+        font: size 1rem;
+        font-weight;:600:
+    }
+
+    
+     .banner{
+         background-image: url(./img/fondo4.jpg);
+    
+         height: 50 rem;
+         background-position: center ;
+         background-repeat: no-repeat;
+         background-size: cover;
+         background-attachment: fixed ;
+         width: 70%;
+        
+    
+        }  
+
+    header{
+        background-image: url(./img/imagen\ ploteo);
+        float: right;
+        background-image: url(./img/img\ favicon.png)
+    }
+     
+    
+    nav {padding: 20px;}
+    
+    .header__navbar ul{
+        list-style-type: none;
+        text-align: center;
+        width: 70;
+    }
+    .header__navbar li{
+        display: inline-block ;
+        
+    }
+    p{
+        background-color: blue;
+        width: 30%;
+        text-decoration: none;
+        text-transform: uppercase;
+        background-color: blue;
+        color: white;
+        font-size: 1.4 rem
+        font-weight:600;
+    }
+    .header__navbar a
+        text-decoration: none;
+        text-transform: uppercase;
+        background-color: blue;
+        color: white;
+        font-size: 1.4 rem
+        font-weight:600;
+    padding: 20 rem;
+        
+{
+    }
+    .contenido__titulo{
+        background-color: blue; rgb (230,204,255);
+        padding: 2rem;
+        text-decoration: none;
+    }
+
+    
+    body
+    {background-color: blue;
+    will-change: 70%;}
+    .aside{
+
+        background-color: black;
+        width: 30px;
+        border: 5px;
+    }
+    
+    
+    
+.contenedor__flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.aside{
+    background-color: blue;
+    width: 30%;
+    padding: 2rem;
+}
+.footer
+{
+    background-color: black;
+    color: white;
+    padding: 2rem;
+    text-transform: uppercase;
+}
+.footer__flex{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color:white 
+    
+    
+
+
+}
+ul{
+    text-decoration: none;
+}
+   

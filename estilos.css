@@ -1,0 +1,55 @@
+{ margin: 0;
+    padding: 0; 
+     box sizing: border-box;
+
+}
+body{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ .banner{
+     background-image: url(./img/fondo4.jpg);
+
+     height: 50 rem;
+     background-position: center ;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed ;
+ }  
+
+ 
+
+nav {padding: 20px;}
+
+.menuSuperior{
+    list-style-type: none;
+    text-align: center;
+}
+.menuSuperior li{
+    display: inline-block ;
+    
+}
+.menuSuperior a{
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+    font-size: 1.4 rem
+    font-weight:600;
+
+    padding: 1 rem;
+}
+body{background-color: blue;}
+
+
+
+{
+productos.html
+margin:0;
+padding:0;
+
+}
+{
+    .body
+    background-color:blue;
+}

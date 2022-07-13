@@ -1,0 +1,71 @@
+{
+    margin:0;
+    padding:0;
+    box sizing : border-box;
+    
+}
+
+@media only screen and (max-width 480px)
+body{
+    font-family:monserrat , sans-serif;
+    font-family: ubuntu;sans-serif;´
+ 
+    
+    /* tablet */ 
+    @media only screen and (min-width 481px) and (max-width 987px)
+}
+
+{
+/* desktop*/
+@media only screen and (min-width 470px)}{
+
+}
+body{
+    font-family:monserrat , sans-serif;
+    font-family: ubuntu;sans-serif;
+    background-color: blue;
+   
+}
+header{
+    
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ heigth:20rem   
+
+ 
+}
+.grid{
+    display: grid;
+    grid-template-areas: 
+    "nav header header"
+    "nav producto1 producto2"
+    "nav producto1 producto2"
+    "nav footer footer";
+    grid-template-rows: 100px 1fr 1fr 80px
+    grid-template-columns: 20% auto 15%;
+    grid-row-gap: 10px;
+    grid-column-gap:20px;
+    height: 100px;
+}
+
+h1{
+    background-color: white;
+}
+}
+.footer
+{
+    background-color: black;
+    color: white;
+    padding: 2rem;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.footer__flex{
+
+
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color:white 
+}
