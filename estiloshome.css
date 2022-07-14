@@ -46,27 +46,14 @@ header{
     .header__navbar a{
         text-decoration: none;
         text-transform: uppercase;
-        background-color: blue;
+        background-color: rgb(82, 55, 55);
         color: white;
         padding: 1rem;
         font: size 1rem;
         font-weight;:600:
     }
 
-    
-     .banner{
-         background-image: url(./img/fondo4.jpg);
-    
-         height: 50 rem;
-         background-position: center ;
-         background-repeat: no-repeat;
-         background-size: cover;
-         background-attachment: fixed ;
-         width: 70%;
-        
-    
-        }  
-
+ 
     header{
         background-image: url(./img/imagen\ ploteo);
         float: right;
@@ -86,12 +73,12 @@ header{
         
     }
     p{
-        background-color: blue;
+        background-color: white;
         width: 30%;
         text-decoration: none;
         text-transform: uppercase;
-        background-color: blue;
-        color: white;
+        background-color: white;
+        color: blue;
         font-size: 1.4 rem
         font-weight:600;
     }
@@ -105,6 +92,7 @@ header{
     padding: 20 rem;
         
 {
+    
     }
     .contenido__titulo{
         background-color: blue; rgb (230,204,255);
@@ -114,7 +102,7 @@ header{
 
     
     body
-    {background-color: blue;
+    {background-color:white;
     will-change: 70%;}
     .aside{
 
